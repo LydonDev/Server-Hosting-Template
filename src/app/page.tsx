@@ -47,7 +47,7 @@ export default async function Home() {
 
         <div className="flex flex-wrap gap-4 justify-center mb-12">
           <Link
-            href="https://my.octant.sh"
+            href="https://google.com"
             className="text-[#ececf399] hover:text-white bg-zinc-800 hover:bg-zinc-700 border border-zinc-700 px-6 py-3 rounded-md text-base font-medium transition-colors flex items-center gap-2 group"
           >
             Get Started

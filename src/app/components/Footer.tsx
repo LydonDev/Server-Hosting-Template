@@ -9,8 +9,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">RandomHostName</h3>
             <p className="text-[#ececf399] text-sm max-w-xs">
-              High-performance game servers deployed in minutes. Engineered for
-              reliability and built to last.
+              High-performance game servers deployed in minutes.
             </p>
           </div>
 
