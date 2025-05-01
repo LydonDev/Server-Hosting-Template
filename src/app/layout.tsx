@@ -4,8 +4,8 @@ import Footer from "./components/Footer"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Octant - High-Performance Game Servers",
-  description: "Deploy high-performance game servers in minutes. Engineered for reliability, built to last.",
+  title: "RandomHostName - High-Performance Game Servers",
+  description: "Deploy high-performance game servers in minutes.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 }
 
