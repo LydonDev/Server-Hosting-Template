@@ -1,4 +1,4 @@
-> [!SUCCESS]
+> [!NOTE]
 > If you like my work please star the repo on GitHub any maybe contact me on Discord for freelance work.
 
 # ServerHostingTemplate ⚡️
